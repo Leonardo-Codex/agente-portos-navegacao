@@ -35,7 +35,19 @@ A cada navio é atribuído um **score de disponibilidade**, conforme regras heur
 - Destino informado nem sempre reflete instrução comercial real
 - Não há acesso a fixtures, contratos ou decisões do armador
 - O modelo é baseado em heurística e inferência, não confirmação operacional
+---
 
+## Modelo de Score (Simplificado)
+
+Cada navio recebe uma pontuação com base em:
+
+- Tempo parado
+- Proximidade da origem
+- Tipo de embarcação
+- Status operacional
+- Histórico recente de rotas
+
+Score final indica o nível de atratividade para fretamento.
 ---
 
 ## Objetivo do Sistema
