@@ -27,3 +27,17 @@ A cada navio é atribuído um **score de disponibilidade**, conforme regras heur
 3. Aplicação de regras de inferência
 4. Cálculo de custos e viabilidade
 5. Geração de relatórios
+---
+
+## Limitações
+
+- Dados AIS são públicos e podem ter atraso ou inconsistências
+- Destino informado nem sempre reflete instrução comercial real
+- Não há acesso a fixtures, contratos ou decisões do armador
+- O modelo é baseado em heurística e inferência, não confirmação operacional
+
+---
+
+## Objetivo do Sistema
+
+Apoiar a tomada de decisão comercial e operacional, reduzindo o tempo de identificação de navios candidatos para cabotagem de etanol.
