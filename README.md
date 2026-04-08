@@ -8,7 +8,7 @@ Coleta (AIS + line-up + web) → Processamento (regras + custos) → Banco de da
 
 ## Regras de Inferência de Disponibilidade
 
-O sistema não identifica disponibilidade confirmada, mas sim **navios potencialmente disponíveis**, com base nos seguintes critérios:
+O sistema não identifica disponibilidade confirmada, mas sim **navios potencialmente disponíveis, com base nos seguintes critérios:
 
 - Navio em porto conhecido (ex: Suape, Santos, Ilha D’Água)
 - Status: "Moored", "At Anchor" ou baixa velocidade
