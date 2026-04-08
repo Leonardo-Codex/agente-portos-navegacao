@@ -53,3 +53,9 @@ Score final indica o nível de atratividade para fretamento.
 ## Objetivo do Sistema
 
 Apoiar a tomada de decisão comercial e operacional, reduzindo o tempo de identificação de navios candidatos para cabotagem de etanol.
+Score = 
++ Tempo parado (0–30)
++ Proximidade da origem (0–25)
++ Tipo de navio compatível (0–20)
++ Status (0–15)
++ Ausência de destino (0–10)
